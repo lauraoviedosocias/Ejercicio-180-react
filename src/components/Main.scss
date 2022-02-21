@@ -1,0 +1,11 @@
+$color-principal: #fad2c9;
+
+.main {
+    padding: 15px;
+    background-color: $color-principal;
+}
+
+.container-cards {
+    display: flex;
+    flex-wrap: wrap;
+}

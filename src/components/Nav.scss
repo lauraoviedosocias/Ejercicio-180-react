@@ -1,0 +1,10 @@
+$color-secundario: #cfaad7;
+
+.container-nav {
+    height: 100px;
+    padding: 10px;
+    background-color: $color-secundario;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

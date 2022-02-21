@@ -1,0 +1,14 @@
+$color-fondo: #fdfcfb;
+$borde-redondeado: 8px;
+$color-tipografia: #2a2c2f;
+
+
+.card {
+    height: 500px;
+    width: 290px;
+    margin: 15px;
+    padding: 20px;
+    border: 1px solid $color-tipografia;
+    border-radius: $borde-redondeado;
+    background-color: $color-fondo;
+}
